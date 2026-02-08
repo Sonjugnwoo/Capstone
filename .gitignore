@@ -1,0 +1,19 @@
+text
+# Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+ipch/
+x64/
+
+# YOLO models
+*.weights
+*.cfg
+
+# OS
+Thumbs.db
+.DS_Store
